@@ -13,7 +13,7 @@ window.searchs =
   },
   {
     name: 'quebajamos',
-    url: 'http://www.quebajamos.com/search.php?do=process&titleonly=1&query=' + query
+    url: 'http://www.quebajamos.co/search.php?do=process&titleonly=1&query=' + query
   },
   {
     name: 'todohdtv',
