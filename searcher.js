@@ -12,14 +12,6 @@ window.searchs =
     url: 'http://www.hdmax.li/search.php?sc=1&sf=titleonly&sr=topics&keywords=' + query
   },
   {
-    name: 'quebajamos',
-    url: 'http://www.quebajamos.co/search.php?do=process&titleonly=1&query=' + query
-  },
-  {
-    name: 'todohdtv',
-    url: 'http://foro.todohdtv.com/search.php?terms=all&author=&sc=1&sf=titleonly&sk=t&sd=d&sr=topics&st=0&ch=300&t=0&submit=Buscar&keywords=' + query
-  },
-  {
     name: 'solohdnet46',
     url: 'http://solohdnet46.net/index.php?action=search2',
     target: '_new', // This site has x-frame-options enabled
