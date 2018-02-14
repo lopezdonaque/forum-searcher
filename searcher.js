@@ -4,8 +4,8 @@ var query = location.hash ? location.hash.substr(1) : '%s';
 window.searchs =
 [
   {
-    name: 'Exvagos',
-    url: 'http://exvagos.net/search.php?do=process&titleonly=1&forumchoice[]=294&forumchoice[]=26&forumchoice[]=478&childforums=1&query=' + query
+    name: 'Exvagos1',
+    url: 'http://exvagos1.com/search.php?do=process&titleonly=1&forumchoice[]=294&forumchoice[]=26&forumchoice[]=478&childforums=1&query=' + query
   },
   {
     name: 'HdMax',
