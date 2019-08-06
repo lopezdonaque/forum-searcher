@@ -5,7 +5,7 @@ window.searchs =
 [
   {
     name: 'Exvagos2',
-    url: 'http://exvagos2.com/search.php?do=process&titleonly=1&forumchoice[]=294&forumchoice[]=26&forumchoice[]=478&childforums=1&query=' + query
+    url: 'http://www.exvagos2.com/search.php?do=process&titleonly=1&forumchoice[]=294&forumchoice[]=26&forumchoice[]=478&childforums=1&query=' + query
   },
   {
     name: 'HdMax',
